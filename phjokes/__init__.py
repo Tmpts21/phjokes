@@ -1,0 +1,1 @@
+from phjokes.main import random ,  get_joke  , pinoy_jokes  
