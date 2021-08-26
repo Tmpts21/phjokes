@@ -6,8 +6,11 @@ My inspiration in creating this package is that i love funny jokes and those rea
 Documentation :  https://github.com/Tmpts21/phjokes/
 
 ## Installation 🛠
+via pypi 
+
 ``` pip install phjokes ``` 
 
+or just clone the repo
 
 ``` git clone https://github.com/Tmpts21/phjokes.git``` 
 
