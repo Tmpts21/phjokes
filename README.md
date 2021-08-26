@@ -1,5 +1,5 @@
 ## Phjokes 
-Pinoy jokes python package that generates a list of Filipino(pinoy) jokes. 
+python package that generates a list of Filipino(pinoy) jokes. 
 
 My inspiration in creating this package is that i love funny jokes and those really cool existing api's like dad jokes api https://icanhazdadjoke.com/api. So i said to myself why not create my first python package that  generates this funny jokes in my own native language and learn packaging in python at the same time . I also created a joke api way before i decided to this project https://github.com/Tmpts21/filipino_jokes_api built with node and express js .
 
