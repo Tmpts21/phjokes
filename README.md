@@ -36,6 +36,15 @@ random_joke = phjokes.random()
 # get a random joke based on count 
 five_random_jokes = phjokes.random(5)
 
+for text in joke['joke'] : 
+  print(text)
+  
+""" 
+Question : Sinong cartoon charcater ang sumisigaw ng yabba dabba doo?
+Answer: Si scooby dooby doo? XD 
+"""
+
+
 ```
 
 Contribute your funny Pinoy joke by adding jokes in ```phjokes/jokes/jokes.py``` file and just copy the format and create a pull request or directly email me at mivatampos@tip.edu.ph. ~~adios 🙋‍♂️
