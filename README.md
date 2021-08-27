@@ -52,3 +52,8 @@ Answer: Si scooby dooby doo? XD
 
 Contribute your funny Pinoy joke by adding jokes in ```phjokes/jokes/jokes.py``` file and just copy the format and create a pull request or directly email me at mivatampos@tip.edu.ph. ~~adios 🙋‍♂️
 
+Notes:
+The package right now only supports two dialects (Tagalog and bisaya)
+
+Todos:
+- add more dialects and jokes
